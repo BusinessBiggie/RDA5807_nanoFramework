@@ -23,7 +23,6 @@
 
   <ItemGroup>
     <Compile Include="Program.cs" />
-    <Compile Include="FMController.cs" />
     <Compile Include="FM.cs" />
     <Compile Include="I2cEeprom.cs" />
     <Compile Include="Properties/AssemblyInfo.cs" />
